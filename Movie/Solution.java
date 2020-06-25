@@ -7,9 +7,6 @@ import java.util.regex.*;
 public class Solution {
    public static void main(String[] args)
     {
-        //code to read values 
-        //code to call required method
-        //code to display the result
         Movie[] movies=new Movie[4];
         Scanner sc=new Scanner(System.in);
         for(int i=0;i<movies.length;i++){
@@ -75,7 +72,6 @@ public class Solution {
 
 class Movie
 {
-    //code to build Movie class
     private int movieId;
     private String director;
     private int rating;
