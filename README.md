@@ -12,4 +12,5 @@ Java is a high-level, class-based, object-oriented programming language used to 
 •	Multithreading<br/>
 •	Vector<br/>
 
+You can also connect with me on LinkedIn or can contact me via gmail. Happy Coding!!
 
